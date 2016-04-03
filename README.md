@@ -6,7 +6,7 @@ How to run
 
 1. First clone this git repository using the command:
 
-`git clone https://github.com/insomniacsabbir/freshtomatoes.git`
+	`git clone https://github.com/insomniacsabbir/freshtomatoes.git`
 
 2. Go to project directory and open the file entertainment.py using any of your favourite editor.
 
